@@ -4,8 +4,8 @@ Milestone 4 CPSC5021-1 Database Systems: Michael Kung, Darsh Lin
 //PREPARATION
 1) The first thing you would want to do is create the needed tables which should be possible through the use of the file "Milestone2.sql" in mySQL.
 
-2) Upon connecting to localhost, all the code is connected to the database "lind2' under the user 
-"lind2" with password "4EKud*pu", if you would like to change the database, you would
+2) Upon connecting to localhost, all the code is connected to the database "REDACTED' under the user 
+"REDACTED" with password "REDACTED", if you would like to change the database, you would
 have to modify the current files: 
 personalInformation.php 
 applicationInformation.php
