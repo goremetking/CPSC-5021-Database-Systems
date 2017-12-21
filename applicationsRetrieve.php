@@ -17,10 +17,10 @@
 </div><div id="spacing"></div>
 
 <?php
-$servername = "cssql.seattleu.edu";
-$username = "lind2";
-$password = "4EKud*pu";
-$dbname = "lind2";
+$servername = "";
+$username = "";
+$password = "*pu";
+$dbname = "";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
