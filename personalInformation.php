@@ -4,10 +4,10 @@
 	<link href="styles.css" type="text/css" rel="stylesheet" />
 	
 	<?php
-		$servername = "cssql.seattleu.edu";
-		$username = "lind2";
-		$password = "4EKud*pu";
-		$dbname = "lind2";
+		$servername = "";
+		$username = "";
+		$password = "";
+		$dbname = "";
 		$conn = mysqli_connect($servername, $username, $password, $dbname);
 		if (!$conn) {
 			die("Connection failed: " . mysqli_connect_error());
