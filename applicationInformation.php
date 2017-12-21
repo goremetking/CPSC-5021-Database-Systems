@@ -4,7 +4,7 @@
 	<link href="styles.css" type="text/css" rel="stylesheet" />
 
 	<?php
-		$servername = "cssql.seattleu.edu";
+		$servername = "";
 		$username = "";
 		$password = "";
 		$dbname = "";
